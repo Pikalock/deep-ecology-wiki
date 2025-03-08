@@ -1,0 +1,20 @@
+{
+  "id": "intro/concept",
+  "title": "concept",
+  "description": "// docs/intro/concept.md",
+  "source": "@site/docs/intro/concept.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/concept",
+  "permalink": "/docs/intro/concept",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro/concept.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Greetings!",
+      "permalink": "/blog/greetings",
+      "unlisted": false,
+      "date": "2025-03-08T13:04:44.000Z"
+    },
+    {
+      "title": "Welcome",
+      "permalink": "/blog/welcome",
+      "unlisted": false,
+      "date": "2021-08-26T00:00:00.000Z"
+    }
+  ]
+}
